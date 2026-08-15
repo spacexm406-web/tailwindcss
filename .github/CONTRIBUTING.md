@@ -9,7 +9,7 @@ Before getting started, ensure your system has access to the following tools:
 - [pnpm](https://pnpm.io/)
 
 ## Getting started
-
+crates/oxide/src/scanner/init_tracing.rs
 ```sh
 # Install dependencies
 pnpm install
